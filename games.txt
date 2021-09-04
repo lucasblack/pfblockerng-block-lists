@@ -1180,3 +1180,6 @@
 0.0.0.0	xsts.auth.xboxlive.com
 0.0.0.0	zh-cn.socialclub.rockstargames.com
 0.0.0.0	zh.socialclub.rockstargames.com
+0.0.0.0	ninja.io
+0.0.0.0	slither.io
+0.0.0.0	wormax.io
