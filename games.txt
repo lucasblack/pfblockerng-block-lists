@@ -1183,7 +1183,4 @@
 0.0.0.0	ninja.io
 0.0.0.0	slither.io
 0.0.0.0	wormax.io
-<<<<<<< HEAD
 0.0.0.0	krunker.io
-=======
->>>>>>> 09fe238654ae9d140cd05bf62a94914e34927a92
