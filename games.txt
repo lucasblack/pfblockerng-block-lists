@@ -1184,3 +1184,4 @@
 0.0.0.0	slither.io
 0.0.0.0	wormax.io
 0.0.0.0	krunker.io
+0.0.0.0	littlebigsnake.com
